@@ -103,6 +103,9 @@ else:
 ```
 ### Output:
 
+![image](https://github.com/karthikeyan-R16/WDM_EXP3/assets/119421232/ddc1ca00-6029-4637-a3f4-8c2b9f7f29b9)
+
+
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
@@ -131,5 +134,13 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
 
+![image](https://github.com/karthikeyan-R16/WDM_EXP3/assets/119421232/238f5352-78a7-4fde-a869-3f3d1d63703c)
+
+
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP3/assets/119421232/5cc1a500-60ec-4f74-a775-d9b20a30905a)
+
+
 
 ### Result:
+Thus, the implementation of the GSP algorithm in Python has been successfully executed.
